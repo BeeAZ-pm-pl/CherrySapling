@@ -5,4 +5,5 @@ branches:
 projects:
   CherrySapling:
     path: ""
+    icon: icon.png
 ...
